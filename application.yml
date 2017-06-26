@@ -5,27 +5,9 @@ eureka:
       defaultZone: http://localhost:9010/eureka/
 
 
----
-spring:
-  profiles: subject
-words: I,You,He,She,It
 
----
-spring:
-  profiles: verb
-words: ran,knew,had,saw,bought
-
----
-spring:
-  profiles: article
-words: a,the
-
----
 spring:
   profiles: adjective
 words: bueno,bonito,barato
 
----
-spring:
-  profiles: noun
-words: boat,book,vote,seat,backpack,partition,groundhog
+
