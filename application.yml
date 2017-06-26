@@ -23,7 +23,7 @@ words: a,the
 ---
 spring:
   profiles: adjective
-words: reasonable,leaky,suspicious,ordinary,unlikely
+words: bueno,bonito,barato
 
 ---
 spring:
