@@ -1,6 +1,6 @@
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://localhost:9010/eureka/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+      defaultZone: http://localhost:9010/eureka/
 
 
